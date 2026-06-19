@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selvaraj-ccroad-construction-works-psi.vercel.app/sitemap.xml
